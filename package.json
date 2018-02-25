@@ -1,0 +1,11 @@
+{
+  "name": "goblog",
+  "version": "1.0.0",
+  "description": "Goblog is a MVC go structure",
+  "main": "goblog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "telingadigital@gmail.com",
+  "license": "ISC"
+}
